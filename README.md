@@ -11,11 +11,6 @@ The goal selected was [Goal 13](https://www.un.org/sustainabledevelopment/sustai
 [munchgar](https://github.com/munchgar)   
 [HersiZa](https://github.com/HersiZa)  
 
-[Contributions / Member](https://github.com/munchgar/dat257phish/pulse)
-
-
-# Scrum board
-For [SCRUMBOARD](https://github.com/munchgar/dat257phish/projects/1) see Projects tab 
 
 # Motivation
 This project was created as part of a course (DAT257/DIT257- Agile software project management) taught at Chalmers University in collaboration with the University of Gothenburg. The primary motivateion behind the project was to learn to use Agile (and SCRUM) as a developer framework. 
