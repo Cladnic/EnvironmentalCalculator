@@ -43,9 +43,6 @@ First follow the steps in Installation. Once you have run the application using 
 - Here we can more graphically break down exactly which activities are most responsible for the emissions.
 ![Alt text](Documents/screenshots/statisticsFood.png?raw=true "Food statistics")
 
-# Documents contains our weekly reflections, both the individual and group reflections.
-The individual reflections for week X can be located at **Documents\Individual reflections\weekX\***
-The group documentation can be found directly in **Documents\** and is one text file, divided by headers. 
 
 # API Reference
 - This project was developed using java version 14.01. There have been some issues with using older versions so if there are issues with running we recommend using this version or later. These are set in the pom.xml file and the .iml file.
